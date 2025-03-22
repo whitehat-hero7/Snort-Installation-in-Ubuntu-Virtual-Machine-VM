@@ -1,7 +1,7 @@
-# Install-Snort-on-Ubuntu-VM-in-VirtualBox
+# Snort Installation in Ubuntu Virtual Machine (VM)
 
 ## Objective
-**`Snort`** is an open-source intrusion detection and prevention system (IDS/IPS). This guide provides step-by-step instructions for installing **`Snort`** on an **`Ubuntu virtual machine (VM)`** in **`VirtualBox`**. Whether you're setting up **`Snort`** for development, testing, or cybersecurity training, this walkthrough will ensure a smooth and successful installation process. By the end of this guide, you'll have **`Snort`** fully functional on an **`Ubuntu VM`** ready for use within **`VirtualBox`**. Let's get started!
+**`Snort`** is an open-source intrusion detection and prevention system (IDS/IPS). This guide provides step-by-step instructions for installing **`Snort`** in an **`Ubuntu virtual machine (VM)`** on **`VirtualBox`**. Whether you're setting up **`Snort`** for development, testing, or cybersecurity training, this walkthrough will ensure a smooth and successful installation process. By the end of this guide, you'll have **`Snort`** fully functional on an **`Ubuntu VM`** ready for use within **`VirtualBox`**. Let's get started!
 
 <img src="docs/snort_logo.PNG">
 
