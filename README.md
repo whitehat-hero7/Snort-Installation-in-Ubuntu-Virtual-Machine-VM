@@ -96,6 +96,7 @@ If everything is correctly, you will see: **`“Snort successfully validated the
 
 **`Snort`** will now **`monitor traffic`** and display alerts on the console.
 
-Congratulations! 🎉 You have successfully installed and configured **`Snort`** on your **`Ubuntu VM`**. Whether you're monitoring traffic, testing rules, or analyzing potential threats, **`Snort`** is a powerful tool to enhance your cybersecurity skills.
+## Conclusion
 
+🎉 Congratulations! You have successfully installed and configured **`Snort`** on your **`Ubuntu VM`**. Now, you can take it a step further by fine-tuning **`Snort’s`** logging, creating custom rules to monitor network traffic, and testing detections to analyze potential threats in real time. With **`Snort’s`** powerful intrusion detection and prevention capabilities, you’re actively strengthening your cybersecurity skills and gaining hands-on experience in threat analysis. Keep experimenting, refining your rules, and integrating **`Snort`** with other security tools to build a robust defense for your home lab! 🚀🔐
 
